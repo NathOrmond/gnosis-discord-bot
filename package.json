@@ -1,14 +1,23 @@
 {
   "name": "discord_bot",
   "version": "1.0.0",
-  "description": "A bot for my discord server",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathOrmond/gnosis-discord-bot.git"
+  },
   "author": "nathan ormond",
   "license": "MIT",
-  "dependencies": {
-    "discord.js": "^12.5.1"
-  }
+  "bugs": {
+    "url": "https://github.com/NathOrmond/gnosis-discord-bot/issues"
+  },
+  "homepage": "https://github.com/NathOrmond/gnosis-discord-bot#readme"
 }
